@@ -1,0 +1,18 @@
+Microsoft Windows [版本 10.0.16299.547]
+(c) 2017 Microsoft Corporation。保留所有权利。
+
+C:\Users\WuZhenyu>systeminfo|more
+
+主机名:           ABEL
+OS 名称:          Microsoft Windows 10 企业版 G
+OS 版本:          10.0.16299 暂缺 Build 16299
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     Windows 用户
+注册的组织:
+产品 ID:          00385-60000-00000-AA255
+初始安装日期:     2018/4/20, 0:56:14
+系统启动时间:     2019/5/9, 7:23:35
+系统制造商:       Notebook
+-- More  --
